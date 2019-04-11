@@ -1,0 +1,7 @@
+Z:\C#\Advanced\c7_LINQ\New folder\LinqExercise\bin\Debug\LinqExercise.exe.config
+Z:\C#\Advanced\c7_LINQ\New folder\LinqExercise\bin\Debug\LinqExercise.exe
+Z:\C#\Advanced\c7_LINQ\New folder\LinqExercise\bin\Debug\LinqExercise.pdb
+Z:\C#\Advanced\c7_LINQ\New folder\LinqExercise\obj\Debug\LinqExercise.csprojAssemblyReference.cache
+Z:\C#\Advanced\c7_LINQ\New folder\LinqExercise\obj\Debug\LinqExercise.csproj.CoreCompileInputs.cache
+Z:\C#\Advanced\c7_LINQ\New folder\LinqExercise\obj\Debug\LinqExercise.exe
+Z:\C#\Advanced\c7_LINQ\New folder\LinqExercise\obj\Debug\LinqExercise.pdb
